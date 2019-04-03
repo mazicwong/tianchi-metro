@@ -1,6 +1,12 @@
-# tianchi-metro
+### 记录一些数据分析过程的代码:)
+- tianchi-metro
+- sofa-古文预测
 
-公开一个非常简单的baseline,包含使用panda进行数据预处理,以及使用sklearn的一元线性回归模型进行流量预测.最终分数是14.17分
+### tips
+- 多学习使用xgboost
+- GDBT跟模型融合
+- 出生日期数据可以考虑转化为年龄来处理
+- 身高、体重归一化。
 
-- ans.ipynb: 代码及注释文件
-- test2.ipynb: 测试文件
+### Acknowledge
+- https://github.com/HuangQinJian/Competition
