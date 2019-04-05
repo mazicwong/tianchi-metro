@@ -9,4 +9,3 @@
 - 身高、体重归一化。
 
 ### Acknowledge
-- https://github.com/HuangQinJian/Competition
